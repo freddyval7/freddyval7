@@ -18,7 +18,7 @@
 <img src="https://skills.thijs.gg/icons?i=js,html,css,react">
 
 ---
-###Contact :point_left:
+### Contact :point_left:
 - :mailbox_closed: My email: freddytomada7@gmail.com
 - :camera: Instagram: [@ftdev][instagram]
 
