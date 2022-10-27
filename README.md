@@ -15,13 +15,13 @@
 ---
 ### :gem: Coding
 
-<img src="https://skills.thijs.gg/icons?i=js,html,css,react">
+<img src="https://skills.thijs.gg/icons?i=js,html,css,react,bootstrap">
 
 ---
 ### Contact :point_left:
 - :mailbox_closed: My email: freddytomada7@gmail.com
-- :camera: Instagram: [@ftdev][instagram]
+- :camera: Instagram: [@ftdev7][instagram]
 
 <!-- FUTURE LINKS -->
 [website]: https://google.com/
-[instagram]: https:
+[instagram]: https://instagram.com/ftdev7?igshid=YmMyMTA2M2Y=
