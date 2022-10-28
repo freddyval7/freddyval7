@@ -21,7 +21,9 @@
 ### Contact :point_left:
 - :mailbox_closed: My email: freddytomada7@gmail.com
 - :camera: Instagram: [@ftdev7][instagram]
+- :briefcase: My Linkedin: [Freddy Tomada][linkedin]
 
 <!-- FUTURE LINKS -->
 [website]: https://google.com/
 [instagram]: https://instagram.com/ftdev7?igshid=YmMyMTA2M2Y=
+[linkedin]: https://www.linkedin.com/in/freddy-tomada-1b549b248/
