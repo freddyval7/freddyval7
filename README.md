@@ -1,4 +1,4 @@
-### Hi there, i´m [Freddy][website] 👋
+### Hi there, i´m [Freddy][website](https://portfolio-ftdev.vercel.app) 👋
 
 <img style="width: 500px; height: 200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e475v8v3wc65ngoe3powpizztl8aq277a7i2dn3dh9f&rid=giphy.gif&ct=g"> <br>
 
@@ -24,6 +24,6 @@
 - :briefcase: My Linkedin: [Freddy Tomada][linkedin]
 
 <!-- FUTURE LINKS -->
-[website]: https://google.com/
+[website]: [https://google.com/](https://portfolio-ftdev.vercel.app)
 [instagram]: https://instagram.com/ftdev7?igshid=YmMyMTA2M2Y=
 [linkedin]: https://www.linkedin.com/in/freddy-tomada-1b549b248/
