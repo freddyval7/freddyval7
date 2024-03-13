@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently working on <b>Freelancing</b>
-- 🌱 I’m currently learning <b>HTML5, CSS AND JAVASCRIPT (Including frameworks Bootstrap & React)</b>
+- 🌱 I’m currently learning <b>NextJS</b>
 - 🤔 I’m looking for help with <b>Everything that help me with my progress</b>
 - 📫 How to reach me: <b>With my web site, SM or email</b>
 - 😄 Pronouns: he/him
