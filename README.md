@@ -1,4 +1,4 @@
-### Hi there, i´m [Freddy][https://portfolio-ftdev.vercel.app] 👋
+### Hi there, i´m [Freddy](https://portfolio-ftdev.vercel.app) 👋
 
 <img style="width: 500px; height: 200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e475v8v3wc65ngoe3powpizztl8aq277a7i2dn3dh9f&rid=giphy.gif&ct=g"> <br>
 
