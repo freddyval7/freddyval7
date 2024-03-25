@@ -11,11 +11,10 @@
 - 🤔 I’m looking for help with <b>Everything that help me with my progress</b>
 - 📫 How to reach me: <b>With my web site, SM or email</b>
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: love videogames and technology but my country is Venezuela, lol
 ---
 ### :gem: Coding
 
-<img src="https://skills.thijs.gg/icons?i=js,html,css,react,bootstrap">
+<img src="https://skills.thijs.gg/icons?i=js,html,css,react,tailwind,nextjs">
 
 ---
 ### Contact :point_left:
