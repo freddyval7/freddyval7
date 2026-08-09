@@ -1,20 +1,20 @@
-### Hi there, i´m [Freddy](https://portfolio-ftdev.vercel.app) 👋
+### Hi there, i´m [Freddy][(https://portfolio-ftdev.netlify.app/)] 👋
 
 <img style="width: 500px; height: 200px" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e475v8v3wc65ngoe3powpizztl8aq277a7i2dn3dh9f&rid=giphy.gif&ct=g"> <br>
 
-### :computer: Front End Developer and Future Data Scientist :computer: <br>
+### :computer: Full Stack Developer :computer: <br>
 #### 
 
 
 - 🔭 I’m currently working on <b>Freelancing</b>
-- 🌱 I’m currently learning <b>Data Science</b>
+- 🌱 I’m currently learning <b>Laravel</b>
 - 🤔 I’m looking for help with <b>Everything that help me with my progress</b>
 - 📫 How to reach me: <b>With my web site, SM or email</b>
 - 😄 Pronouns: he/him
 ---
 ### :gem: Coding
 
-<img src="https://skills.thijs.gg/icons?i=js,html,css,react,tailwind,nextjs,python">
+<img src="https://skills.thijs.gg/icons?i=js,html,css,react,tailwind,nextjs,ts,php,laravel">
 
 ---
 ### Contact :point_left:
@@ -23,6 +23,6 @@
 - :briefcase: My Linkedin: [Freddy Tomada][linkedin]
 
 <!-- FUTURE LINKS -->
-[website]: [https://google.com/](https://portfolio-ftdev.vercel.app)
+[website]: [https://google.com/][(https://portfolio-ftdev.netlify.app/)]
 [instagram]: https://instagram.com/ftdev7?igshid=YmMyMTA2M2Y=
 [linkedin]: https://www.linkedin.com/in/freddy-tomada-1b549b248/
